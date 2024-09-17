@@ -1,7 +1,9 @@
 title: WhatTheJunkyard
 email: silchenko.whatthetea@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Oleksii "WhatTheTea" Silchenko personal blog. C# Developer from Ukraine
+author: Oleksii "WhatTheTea" Silchenko
+description: >
+  Oleksii "WhatTheTea" Silchenko personal blog. C# Developer from Ukraine. <br/>
+  #dotnet #csharp #ukraine #winui #asp.net
 baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  WhatTheTea
