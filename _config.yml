@@ -4,8 +4,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Oleksii "WhatTheTea" Silchenko personal blog. C# Developer from Ukraine
 baseurl: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  WhatTheTea
+linkedin_username: WhatTheTea
+facebook_username: WhatTh3T3a
+telegram_username: WhatTheTea
 
 # Build settings
 markdown: kramdown
