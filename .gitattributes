@@ -1,2 +1,2 @@
-*.md linguist-detectable
+*.md linguist-language=Markdown
 text eol=lf
