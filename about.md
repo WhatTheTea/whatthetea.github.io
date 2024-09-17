@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Alex, C# developer since 2018. I have experience with desktop development (WinUI, WPF, WinForms) and web as well (Blazor, ASP.NET Core).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+For my achievements in software design I was awarded by JASU and VNTU (in my late school and early college period).
+In college I have seeked for a part-time job, which leaded me to experience in mentoring and teaching the basics of C#, C++, Python and Unity.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Now I'm working at Digital Cloud Technologies, where we deliver modern fluent apps for Windows
