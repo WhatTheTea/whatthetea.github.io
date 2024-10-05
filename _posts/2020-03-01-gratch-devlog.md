@@ -2,7 +2,7 @@
 layout: post
 title:  "gratch devlog"
 date:   2020-03-01 00:00:00 +0300
-categories: dotnet
+categories: gratch
 ---
 
 So, I dug up some files from the past and I think it would be kinda fun to see my development process of gratch software when I was just a teenager. And.. uhh... it's written in ukrainian, lol
